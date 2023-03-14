@@ -1,2 +1,0 @@
-# ServersAge
-Servers Age Game
